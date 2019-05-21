@@ -1,6 +1,6 @@
 # A Cross Platform UUID for K/N
 
-[![Build Status](https://dev.azure.com/benasher44/benasher44.uuid/_apis/build/status/benasher44.uuid?branchName=master)](https://dev.azure.com/benasher44/benasher44.uuid/_build/latest?definitionId=1&branchName=master)
+[ ![Download](https://api.bintray.com/packages/bschramke/maven/uuid/images/download.svg?version=0.0.1) ](https://bintray.com/bschramke/maven/uuid/0.0.1/link)
 
 K/N doesn't have a UUID yet. This brings a random (v4) UUID that matches UUIDs on various platforms:
 
