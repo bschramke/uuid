@@ -148,10 +148,10 @@ publishing {
   }
 }
 
-signing {
+/*signing {
     required { isReleaseBuild() }
     sign(publishing.publications)
-}
+}*/
 
 tasks.register('publishMac') {
     dependsOn 'publishIosDevice32PublicationToMavenRepository'
